@@ -1,0 +1,171 @@
+<html lang="en">
+
+<head>
+<h1>MAHMUDUL HASAN</h1>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><!--add metadat code-->
+<meta name="description" content="Free Web tutorials">
+<meta name="keywords" content="HTML, CSS, JavaScript">
+<meta name="author" content="John Doe">
+<link rel="stylesheet" href="Css/index.css">
+<title>Hasan Mahmudul Resume</title>
+</head>
+
+<body>
+<div class="full">
+<div class="left">
+<div class="image">
+<center><img src="Suvo.JPG" alt="Avatar" style="width:200px;height:200px;"></center>
+</div><br>
+<div class="Contact"><br>
+<h2>Contact</h2><hr>
+<p><address>Permanent Address : 526 Wilsonroad, Bangladesh</p> </address>
+<p><address>Current Address : &nbsp;&nbsp; Kyoto, Japan</p> </address>
+<p><b>Email id: </b><a href='email'>mshuvo1993@gmail.com</a></p>
+<p><b>Mobile no : </b>08098286854</p>
+<p><b>Gender : </b>Male</p>
+
+
+</div>
+<div class="Skills">
+<h2>Skills</h2><hr>
+<b>Programming Languages :</b><br>
+<ul>
+<li style='margin-left:30px;'>Python</li>
+<li style='margin-left:30px;'>C#</li>
+<li style='margin-left:30px;'>SQL Server</li>
+</ul>
+<ul>
+<li style='margin-left:30px;'>HTML</li>
+<li style='margin-left:30px;'>CSS</li>
+
+
+</ul>
+<b>Can work with Microsoft Office: <br> &nbsp;&nbsp;&nbsp;(Word, Excel, Powerpoint)</b>
+
+</div>
+<div class="Language">
+<h2>Language</h2><hr>
+<ul>
+<li style='margin-left:30px;'>English : <meter id="meter" value="8.5" min="0" max="10"></meter><br></li>
+<li style='margin-left:30px;'>Bangla : &nbsp; <meter id="meter" value="10" min="0" max="10"></meter><br></li>
+<li style='margin-left:30px;'>Japanese: <meter id="meter" value="1" min="0" max="10"></meter><br></li>
+</ul>
+</div>
+<div class="Hobbies"> <hr>
+<h2>Hobbies</h2>
+<ul>
+<li style='margin-left:30px;'>Playing football</li>
+<li style='margin-left:30px;'>Travelling and Visiting</li>
+<li style='margin-left:30px;'>Listening Music</li>
+<li style='margin-left:30px;'>Riding cycle</li>
+</ul>
+</div>
+<div class="Hobbies"> <hr>
+<h2>Course List</h2>
+<ul>
+<li style='margin-left:30px;'>Computer programming</li>
+<li style='margin-left:30px;'>Database</li>
+<li style='margin-left:30px;'>Computer fundamentals</li>
+<li style='margin-left:30px;'>Statistics</li>
+<li style='margin-left:30px;'>Web Programming</li>
+<li style='margin-left:30px;'>Computer Organization</li>
+</ul>
+</div>
+</div>
+<div class="right">
+<div class="name">
+<h1>HASAN MAHMUDUL</h1>
+</div>
+<div class="title">
+
+<p style='color:#666666; font-family: cursive; font-size:15px;'>Data Science</p>
+
+
+
+</div>
+<div class="Summary">
+<h2>Objective</h2><hr>
+
+<p>To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills.
+Secure a responsible career opportunity to fully utilize my training and skills, while making a significant contribution to the success of the company.</p>
+
+
+
+</div>
+<div class="Experience">
+<h2>Experience</h2><hr>
+<h3>Teacher of a college (mathmatics) - 24 months </h3>
+
+
+</div>
+<div class="Education">
+<h2>Education</h2><hr><br>
+<table border='1px;' style='border-spacing: 1px;'>
+<tr>
+<th>Institution/University </th>
+<th>Course </th>
+<th>Level</th>
+<th>Percentage</th>
+<th>Start</th>
+<th>End</th>
+</tr>
+<tr>
+<td>Jagnnath University </td>
+<td>Science</td>
+<td>B.s.c</td>
+<td>70</td>
+<td>Jan, 2011</td>
+<td>Dec, 2015</td>
+</tr>
+<tr>
+<td> Jagnnath University </td>
+<td> <abbr title="Mathmatics">Science</abbr></td>
+<td>M.S.C</td>
+<td>72</td>
+<td>Jan, 2016</td>
+<td>Dec, 2017</td>
+</tr>
+<tr>
+<td><abbr title="The Kyoto College of Graduate Studies for Informatics">KCGI</abbr> </td>
+<td>Web Development</td>
+<td>Master</td>
+<td>-</td>
+<td>Octobore, 2022</td>
+<td>Present</td>
+</tr>
+</table>
+</div>
+<div class="project">
+<h2>Declaration</h2><hr>
+
+<p>I, the undersigned, decllare that the information presented in this document is authentic to the fullest of my knowledge and describes my qualification</p>
+</div>
+<div class="ft">
+<div class="map" style='margin:2px';> <h3> To see my present Location: </h3>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52294.94285712293!2d135.72051379999996!3d34.9958413!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600107d564c85317%3A0x15b00edc90879afd!2z44Kw44Oq44K344O844OM5Lqs6YO96KW_5Lqs5qW1!5e0!3m2!1sen!2sjp!4v1673438911914!5m2!1sen!2sjp"</iframe>"
+width="400" height="350" frameborder="1px" style="border:0;" allowfullscreen="" loading="lazy"
+referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+<div class="vido" style='margin:2px';> <h3>My favourate youtube video</h3>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/sLWTJTn6hCo" title="Reverse Thinking Process l Change"</iframe>
+
+
+src="https://www.youtube.com/embed/W6loL69pnmg?&autoplay=1" title="''A Graduation Film'' (Cinematic Style)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+</div>
+</div><br>
+<h3 style='margin-left:20px;'> Audio</h3>
+<audio controls autoplay loop > <!-- some browser not support auto play-->
+<source src="audio/music.M4A" type="audio/mpeg" >
+Your browser does not support the audio element.
+</audio>
+<br><br>
+
+</div>
+</div>
+</body>
+
+</html>
